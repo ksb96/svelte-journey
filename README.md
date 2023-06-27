@@ -1,5 +1,17 @@
 # Svelte
 
+# Contents -
+- Introduction <br>
+    a) Basic <br>
+    b) Adding data <br>
+    c) Dynamic attributes <br>
+    d) Styling <br>
+    e) Nested components <br>
+    f) Making app <br>
+    g) Reactivity <br>
+
+# Quick glance -
+
 1) What is svelte?
 - Svelte is a web development framework that streamlines the process of building websites by letting you write code more directly and producing efficient, fast websites or applications.
 
@@ -8,14 +20,4 @@
 Run-time is when the program is running and doing its work, just like the cake is baking in the oven.
 
 3) What are Components?
-- In Svelte, an application is composed from one or more components. A component is a reusable self-contained block of code that encapsulates HTML, CSS and JavaScript that **belong together**, written into a *.svelte file*.
-
-# Contents -
-- Introduction
-    a) Basic <br>
-    b) Adding data <br>
-    c) Dynamic attributes <br>
-    d) Styling <br>
-    e) Nested components <br>
-    f) Making app <br>
-    g) Reactivity <br>
+- In Svelte, an application is composed from one or more components. A component is a reusable self-contained block of code that encapsulates HTML, CSS and JavaScript that *belong together*, written into a *.svelte file*.
