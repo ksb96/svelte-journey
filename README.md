@@ -9,9 +9,14 @@
     - Nested components <br>
     - Making app <br>
     - Reactivity <br>
-        a) declarations <br>
-        b) statements <br>
+        a) assignments <br>
+        b) declarations <br>
+        c) statements <br>
     - Updating arrays <br>
+    - Props <br>
+        a)
+        b)
+        c)
 
 # Quick glance -
 
