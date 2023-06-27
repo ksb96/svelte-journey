@@ -2,13 +2,16 @@
 
 # Contents -
 - Introduction <br>
-    a) Basic <br>
-    b) Adding data <br>
-    c) Dynamic attributes <br>
-    d) Styling <br>
-    e) Nested components <br>
-    f) Making app <br>
-    g) Reactivity <br>
+    - Basic <br>
+    - Adding data <br>
+    - Dynamic attributes <br>
+    - Styling <br>
+    - Nested components <br>
+    - Making app <br>
+    - Reactivity <br>
+        a) declarations <br>
+        b) statements <br>
+    - Updating arrays <br>
 
 # Quick glance -
 
