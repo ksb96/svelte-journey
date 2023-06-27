@@ -12,9 +12,10 @@ Run-time is when the program is running and doing its work, just like the cake i
 
 # Contents -
 - Introduction
-    a) Basic
-    b) Adding data
-    c) Dynamic attributes
-    d) Styling
-    e) Nested components
-    f) Making app
+    a) Basic <br>
+    b) Adding data <br>
+    c) Dynamic attributes <br>
+    d) Styling <br>
+    e) Nested components <br>
+    f) Making app <br>
+    g) Reactivity <br>
