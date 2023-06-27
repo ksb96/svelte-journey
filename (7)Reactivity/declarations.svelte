@@ -3,7 +3,7 @@
     $: doubled = count * 2;
 
     function handleClick() {
-        count += 1;
+        count ++;
     }
 </script>
 
